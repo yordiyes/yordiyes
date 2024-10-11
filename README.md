@@ -1,9 +1,11 @@
-## Hi there, I'm Yordanos Yeshitla ![animated name](https://your-gif-url-here) 👋
+## Hi there, I'm Yordanos Yeshitla 👋
 
 I'm a passionate **Software Engineering student** who loves solving problems and building impactful applications. I enjoy collaborating on projects, learning new technologies, and contributing to open-source. Here’s a bit more about me:
 
 ### 👨‍💻 Current Focus
 - 🌱 Currently a 3rd-year Software Engineering student at **Haramaya University**.
+give my name some animation and another software engineer text in the beginneing with an amazing animation
+
 - 💡 Learning more about **Node.js, Express, and MongoDB**.
 - 🔧 Building projects with **JavaScript**, **TypeScript**, and **Python**.
 - 🤖 Exploring **Discord bots** and custom API development.
@@ -21,6 +23,7 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 <!-- Recent GitHub Activity -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yordiyes&layout=compact&theme=radical)
 
+  
 ### 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -37,3 +40,4 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 yordiyes/yordiyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+can't you make the language and tools a bit igger
