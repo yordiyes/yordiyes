@@ -39,4 +39,3 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 yordiyes/yordiyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-can't you make the language and tools a bit igger
