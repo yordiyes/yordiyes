@@ -1,8 +1,37 @@
-- 👋 Hi, I’m @yordiyes
-- 👀 I’m interested in programming and problem solving.
-- 🌱 I’m currently software engineering student.
-- 💞️ I’m looking to collaborate on projects that help me improve my skill on programming and problem solving.
-- 📫 How to reach me with yordiman614@gmail.com
+## Hi there, I'm Yordanos Yeshitla 👋
+
+I'm a passionate **Software Engineering student** who loves solving problems and building impactful applications. I enjoy collaborating on projects, learning new technologies, and contributing to open-source. Here’s a bit more about me:
+
+### 👨‍💻 Current Focus
+- 🌱 Currently a 3rd-year Software Engineering student at **Haramaya University**.
+- 💡 Learning more about **Node.js, Express, and MongoDB**.
+- 🔧 Building projects with **JavaScript**, **TypeScript**, and **Python**.
+- 🤖 Exploring **Discord bots** and custom API development.
+  
+### 🚀 Projects
+- 🕹️ **Tic Tac Toe Game** – A fun web-based game built using JavaScript.
+- ⏱️ **Stopwatch Web App** – A simple and interactive stopwatch using HTML, CSS, and JavaScript.
+- 🎯 **QR Code Generator Discord Bot** (Ongoing) – A bot to generate QR codes with customizable options.
+
+### 🌍 Let's Connect
+- 💌 Reach me via **[email](mailto:yordiman614@gmail.com)** or on **[LinkedIn](#)**.
+- 👀 Check out my **[portfolio](#)** (if applicable).
+- ⚡ Fun fact: I'm also interested in **Object-Oriented Systems Analysis and Design (OOSAD)**!
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yordiyes&show_icons=true&theme=radical)
+  
+### 🛠️ Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+### 🔥 Fun Stuff
+- 🌱 I’m currently improving my skills in **problem-solving** using **Data Structures and Algorithms**.
+- 📝 I take detailed notes using **Notion**.
 
 <!---
 yordiyes/yordiyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
