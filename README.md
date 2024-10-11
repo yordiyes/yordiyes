@@ -23,14 +23,13 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 
   
 ### 🛠️ Languages and Tools
-<h2>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="40" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" height="40" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" height="40" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" height="40" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" height="40" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="40" />
-</h2>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 
 ### 🔥 Fun Stuff
