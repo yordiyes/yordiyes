@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there, I'm Yordanos Yeshitla 👋<br><br>I'm a passionate **Software Engineering student** who loves solving problems and building impactful applications. I enjoy collaborating on projects, learning new technologies, and contributing to open-source. Here’s a bit more about me:<br><br> 👨‍💻 Current Focus<br>- 🌱 Currently a 3rd-year Software Engineering student at **Haramaya University**.<br>- 💡 Learning more about **Node.js, Express, and MongoDB**.<br>- 🔧 Building projects with **JavaScript**, **TypeScript**, and **Python**.
+## Hi there, I'm Yordanos Yeshitla 👋<br><br>I'm a passionate **Software Engineering student** <br><br> 👨‍💻 Current Focus<br>- 🌱 Currently a 3rd-year Software Engineering student at **Haramaya University**.<br>- 💡 Learning more about **Node.js, Express, and MongoDB**.<br>- 🔧 Building projects with **JavaScript**, **TypeScript**, and **Python**.
 
 
 ## 🌐 Socials:
@@ -13,6 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yordiyes&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yordiyes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
