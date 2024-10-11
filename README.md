@@ -1,15 +1,9 @@
-## Hi there, I'm Yordanos Yeshitla 👋
+## Hi there, I'm Yordanos Yeshitla ![animated name](https://your-gif-url-here) 👋
 
 I'm a passionate **Software Engineering student** who loves solving problems and building impactful applications. I enjoy collaborating on projects, learning new technologies, and contributing to open-source. Here’s a bit more about me:
 
 ### 👨‍💻 Current Focus
 - 🌱 Currently a 3rd-year Software Engineering student at **Haramaya University**.
-<!-- Add animations for your name and title -->
-<div style="animation: fadeIn 3s;">
-    <h1 style="font-size: 3em;">Yordanos Yeshitla</h1>
-    <h2 style="font-size: 2em;">Software Engineer</h2>
-</div>
-
 - 💡 Learning more about **Node.js, Express, and MongoDB**.
 - 🔧 Building projects with **JavaScript**, **TypeScript**, and **Python**.
 - 🤖 Exploring **Discord bots** and custom API development.
@@ -27,7 +21,6 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 <!-- Recent GitHub Activity -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yordiyes&layout=compact&theme=radical)
 
-  
 ### 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -35,8 +28,6 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-
 
 ### 🔥 Fun Stuff
 - 🌱 I’m currently improving my skills in **problem-solving** using **Data Structures and Algorithms**.
