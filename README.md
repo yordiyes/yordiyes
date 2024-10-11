@@ -14,7 +14,7 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 
 ### 🌍 Let's Connect
 - 💌 Reach me via **[email](mailto:yordiman614@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/yordanos-yeshitla-290687285/)**.
-- 👀 Check out my **[portfolio](#)** (if applicable).
+- 👀 Check out my **[portfolio](#)** (not available currently).
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yordiyes&show_icons=true&theme=radical)
