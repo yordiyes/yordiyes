@@ -4,6 +4,12 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 
 ### 👨‍💻 Current Focus
 - 🌱 Currently a 3rd-year Software Engineering student at **Haramaya University**.
+<!-- Add animations for your name and title -->
+<div style="animation: fadeIn 3s;">
+    <h1 style="font-size: 3em;">Yordanos Yeshitla</h1>
+    <h2 style="font-size: 2em;">Software Engineer</h2>
+</div>
+
 - 💡 Learning more about **Node.js, Express, and MongoDB**.
 - 🔧 Building projects with **JavaScript**, **TypeScript**, and **Python**.
 - 🤖 Exploring **Discord bots** and custom API development.
