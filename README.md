@@ -4,7 +4,6 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 
 ### 👨‍💻 Current Focus
 - 🌱 Currently a 3rd-year Software Engineering student at **Haramaya University**.
-give my name some animation and another software engineer text in the beginneing with an amazing animation
 
 - 💡 Learning more about **Node.js, Express, and MongoDB**.
 - 🔧 Building projects with **JavaScript**, **TypeScript**, and **Python**.
