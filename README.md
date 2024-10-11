@@ -19,7 +19,8 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yordiyes&show_icons=true&theme=radical)
 <!-- Recent GitHub Activity -->
-[![Yordanos's github activity graph](https://activity-graph.herokuapp.com/graph?username=yordiyes&theme=github)](https://github.com/yordiyes)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yordiyes&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yordiyes&layout=compact&theme=radical)
 
   
 ### 🛠️ Languages and Tools
