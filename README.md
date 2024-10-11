@@ -18,6 +18,9 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yordiyes&show_icons=true&theme=radical)
+<!-- Recent GitHub Activity -->
+[![Yordanos's github activity graph](https://activity-graph.herokuapp.com/graph?username=yordiyes&theme=github)](https://github.com/yordiyes)
+
   
 ### 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
