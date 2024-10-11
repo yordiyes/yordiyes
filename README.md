@@ -19,7 +19,6 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yordiyes&show_icons=true&theme=radical)
 <!-- Recent GitHub Activity -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yordiyes&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yordiyes&layout=compact&theme=radical)
 
   
