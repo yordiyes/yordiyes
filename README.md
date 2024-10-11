@@ -14,7 +14,7 @@ I'm a passionate **Software Engineering student** who loves solving problems and
 - 🎯 **QR Code Generator Discord Bot** (Ongoing) – A bot to generate QR codes with customizable options.
 
 ### 🌍 Let's Connect
-- 💌 Reach me via **[email](mailto:yordiman614@gmail.com)** or on **[LinkedIn](#)**.
+- 💌 Reach me via **[email](mailto:yordiman614@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/yordanos-yeshitla-290687285/)**.
 - 👀 Check out my **[portfolio](#)** (if applicable).
 - ⚡ Fun fact: I'm also interested in **Object-Oriented Systems Analysis and Design (OOSAD)**!
 
