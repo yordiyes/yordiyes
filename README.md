@@ -1,5 +1,10 @@
 # 💫 About Me:
-## Hi there, I'm Yordanos Yeshitla 👋<br><br>I'm a passionate **Software Engineering student** <br><br> 👨‍💻 Current Focus<br>- 🌱 Currently a 3rd-year Software Engineering student at **Haramaya University**.<br>- 💡 Learning more about **Node.js, Express, and MongoDB**.<br>- 🔧 Building projects with **JavaScript**, **TypeScript**, and **Python**.
+## Hi there, I'm **Yordanos Yeshitla** 👋<br><br>I'm a passionate Software Engineering student <br><br> 
+
+👨‍💻 **Current Focus**<br>
+- 🌱 Currently a 3rd-year **Software Engineering** student at **Haramaya University**.<br>
+- 💡 Learning more about **Node.js, Express, and MongoDB**.<br>
+- 🔧 Building projects with **JavaScript**, **TypeScript**, and **Python**.
 
 
 ## 🌐 Socials:
