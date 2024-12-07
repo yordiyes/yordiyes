@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hi there, I'm **Yordanos Yeshitla** 👋<br><br>I'm a passionate Software Engineering student <br><br> 
 
 👨‍💻 **Current Focus**<br>
