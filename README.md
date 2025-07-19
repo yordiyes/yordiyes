@@ -1,6 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yordanos+Yeshitla+👋;Welcome+to+my+GitHub+profile!;I+love+learning+and+building+with+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yordanos+Yeshitla+👋;Welcome+to+my+GitHub+profile!;I+love+learning+and+building+with+code!&repeat=0" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yordanos+Yeshitla+👋;Welcome+to+my+GitHub+profile!;I+love+learning+and+building+with+code!&repeat=1" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yordanos+Yeshitla+👋;Welcome+to+my+GitHub+profile!;I+love+learning+and+building+with+code!&repeat=1" alt="Typing SVG" />
 </p>
 
 <p align="center">
