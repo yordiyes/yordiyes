@@ -1,21 +1,22 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yordanos+Yeshitla+👋;Welcome+to+my+GitHub+profile!;&repeat=0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yordanos+Yeshitla+👋;Welcome+to+my+GitHub!;&repeat=0" alt="Typing SVG" />
 </p>
 
 <p align="center">
   🎓 Final-year Software Engineering Student at <strong>Haramaya University</strong><br/>
-  🚀 Passionate about tech, problem-solving & building real-world solutions
+  🚀 Full-stack developer passionate about building reliable, scalable, and impactful software
 </p>
 
 ---
 
-## 👨‍💻 Current Focus
+## 👨‍💻 What I Do
 
-- 🌱 Final-year **Software Engineering** student at **Haramaya University**  
-- ⚙️ Deepening skills in **Node.js**, **Express**, **MongoDB**, and **Laravel**  
-- 🔭 Building projects with **JavaScript**, **TypeScript**, **Python**, and **PHP**  
-- 🧠 Exploring full-stack development, clean architecture, scalable backend systems, and cybersecurity
+- Backend-focused full-stack development using **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**
+- Building production-ready systems with **JavaScript**, **TypeScript**, **Python**, and **PHP**
+- Applying clean architecture, API design best practices, and efficient database modeling  
+- Working on real-world projects including **chat apps**, **web platforms**, **mobile apps**, and **backend services**
+- Exploring cloud deployment, CI/CD workflows, and performance-oriented backend engineering
 
 ---
 
@@ -71,5 +72,5 @@
 ---
 
 <p align="center">
-  <i>“Consistency beats intensity. Just keep showing up.”</i> ✨
+  <i>“Consistency beats intensity. Keep building.”</i> ✨
 </p>
