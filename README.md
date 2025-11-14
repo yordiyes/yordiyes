@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yordanos+Yeshitla+👋;Welcome+to+my+GitHub!;&repeat=0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yordanos+Yeshitla+👋;Welcome+to+my+GitHub+profile!;&repeat=0" alt="Typing SVG" />
 </p>
 
 <p align="center">
   🎓 Final-year Software Engineering Student at <strong>Haramaya University</strong><br/>
-  🚀 Full-stack developer passionate about building reliable, scalable, and impactful software
+  Driven by passion, I build full-stack solutions that are reliable, scalable, and transformative
 </p>
 
 ---
@@ -60,6 +60,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
