@@ -74,5 +74,5 @@
 ---
 
 <p align="center">
-  <i>“Consistency beats intensity. Keep building.”</i> ✨
+  <i>“Consistency beats intensity. Keep building.”</i> 
 </p>
