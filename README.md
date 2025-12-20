@@ -5,7 +5,7 @@
 
 <p align="center">
   🎓 Final-year Software Engineering Student at <strong>Haramaya University</strong><br/>
-  Driven by passion, I build full-stack solutions that are reliable, scalable, and transformative
+  Driven by passion, I build full-stack solutions that are reliable and scalable.
 </p>
 
 ---
