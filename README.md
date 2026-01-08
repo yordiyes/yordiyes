@@ -12,7 +12,7 @@
 
 ## 👨‍💻 What I Do
 
-- Backend-focused full-stack development using **Reach.js**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**
+- Backend-focused full-stack development using **Reactjs**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**
 - Building production-ready systems with **JavaScript**, **TypeScript**, **Python**, and **PHP**
 - Applying clean architecture, API design best practices, and efficient database modeling  
 - Working on real-world projects including **chat apps**, **web platforms**, **mobile apps**, and **backend services**
