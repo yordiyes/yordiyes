@@ -16,7 +16,7 @@
 - Building production-ready systems with **JavaScript**, **TypeScript**, **Python** and **PHP**
 - Applying clean architecture, API design best practices and efficient database modeling  
 - Working on real-world projects including **chat apps**, **web platforms**, **mobile apps** and **backend services**
-- Exploring cloud deployment, CI/CD workflows, and performance-oriented backend engineering
+- Exploring cloud deployment, CI/CD workflows and performance-oriented backend engineering
 
 ---
 
