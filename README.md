@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Yordanos+Yeshitla+👋;Welcome+to+my+GitHub+profile!;&repeat=0" alt="Typing SVG" />
 </p>
